@@ -22,8 +22,4 @@
 - `pandas`
 - `scikit-learn`
 - `matplotlib`
-<<<<<<< HEAD
 - `seaborn`
-=======
-- `seaborn`
->>>>>>> bd77c226293d131797029f69e4fc75fe169aef90
